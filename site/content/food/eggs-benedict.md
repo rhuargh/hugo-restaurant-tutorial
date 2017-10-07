@@ -1,8 +1,10 @@
 ---
-date: 2017-05-17T13:35:35-04:00
-categories: brunch
-type: egg dishes 
-title: Eggs Benedict
-description: two eggs with a fine holldandaise sauce
-price: 13
+title: eggs benedict
+categories:
+  - lunch
+  - brunch
+description: 'two poached eggs doused in hollandaise sauce, served on an English muffin'
+type: egg dishes
+price: '18'
 ---
+
