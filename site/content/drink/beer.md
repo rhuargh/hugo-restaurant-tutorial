@@ -1,9 +1,9 @@
 ---
 title: Beer
 categories:
-  - Cold drinks
+  - Alcoholic
 description: Tasty alcohol beverage
-type: Cold drinks
+type: Beer
 price: '6'
 ---
 
